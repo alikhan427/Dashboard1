@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Admin Dashboard",
+  "description": "A premium production-level e-commerce admin panel and SaaS website featuring dynamic products, orders, customers, interactive charting, and state management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
